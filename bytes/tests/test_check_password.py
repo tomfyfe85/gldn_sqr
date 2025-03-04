@@ -1,4 +1,4 @@
-from lib.check_codeword import check_codeword
+from bytes.lib.check_codeword import check_codeword
 
 def test_check_code_word():
 	result = check_codeword("horse")

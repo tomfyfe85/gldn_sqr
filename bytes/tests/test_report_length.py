@@ -1,4 +1,4 @@
-from lib.report_length import report_length
+from bytes.lib.report_length import *
 
 def test_report_length():
 	result = report_length("three")
